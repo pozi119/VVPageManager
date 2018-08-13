@@ -1,3 +1,4 @@
+platform :ios, '8.0'
 use_frameworks!
 
 target 'VVPageManager_Example' do
@@ -6,6 +7,5 @@ target 'VVPageManager_Example' do
   target 'VVPageManager_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
   end
 end
