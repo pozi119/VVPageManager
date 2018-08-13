@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VVPageManager_Example' do
+  pod 'VVPageManager', :path => '../'
+
+  target 'VVPageManager_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
