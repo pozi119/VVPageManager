@@ -1,0 +1,16 @@
+PODS:
+  - VVPageManager (0.1.0)
+
+DEPENDENCIES:
+  - VVPageManager (from `../`)
+
+EXTERNAL SOURCES:
+  VVPageManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VVPageManager: 6852146f503d91745e0467c2453424a01a1a6be2
+
+PODFILE CHECKSUM: 20bd144170b4321c68bf3ee758bf1628f7dcd580
+
+COCOAPODS: 1.8.4
